@@ -26,7 +26,7 @@ def char_to_cellphoneNumbers(inputFileName='entrada.txt', outputFileName='saida.
 
 	output = open(outputFileName, 'w')
 
-	#Fazer disso um método e criar um teste
+
 	for line in lines:
 		if pattern.match(line.strip('\n')) != None :
 			for char in line :
