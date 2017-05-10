@@ -1,0 +1,1 @@
+O programa funciona com a entrada sendo pelo arquivo "entrada.txt", os inputs devem ser escritos lá. O programa além de mostrar a saída na tela, também gera um arquivo de saída, "saída.txt".
