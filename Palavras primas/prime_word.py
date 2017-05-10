@@ -1,6 +1,5 @@
 import re
 
-#Criar teste para esses métodos
 def isPrime(number):
 	div = 0
 
